@@ -9,5 +9,12 @@
     ],
     "assignees": [
         "ThatKawaiiSam"
+    ],
+    "dependencyDashboard": true,
+    "packageRules": [
+        {
+            "matchPackageNames": ["**"],
+            "enabled": false
+        }
     ]
 }
